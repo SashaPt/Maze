@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  display: none;
+}
+canvas {
+  border: 5px double black;
+  margin: 20px auto;
+  max-width: calc(100% - 20px);
+  display: block;
+}
